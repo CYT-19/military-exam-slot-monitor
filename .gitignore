@@ -1,0 +1,12 @@
+# 個人設定與執行狀態
+config.json
+state.json
+debug/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
