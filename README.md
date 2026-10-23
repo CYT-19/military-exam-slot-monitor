@@ -50,7 +50,7 @@ python3 monitor.py                   # 正式開始持續監測（Ctrl+C 停止�
 python3 monitor.py --once --debug
 ```
 
-`debug/` 資料夾會存下每一步（須知、戶籍地、梯次）的截圖和 HTML，跟我說一聲我就能直接讀取並調整。
+`debug/` 資料夾會存下每一步（須知、戶籍地、梯次）的截圖和 HTML。歡迎到 GitHub 開 [issue](https://github.com/CYT-19/military-exam-slot-monitor/issues) 回報，並附上 `debug/` 裡的截圖；上傳前請先確認截圖中沒有身分證字號、姓名等個人資料。
 
 ## 判斷規則
 
