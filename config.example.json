@@ -1,0 +1,14 @@
+{
+  "exam_county": "全部",
+  "household_county": "高雄市",
+  "hospital_keywords": [],
+  "date_from": "",
+  "date_to": "",
+  "interval_seconds": 300,
+  "headless": true,
+  "notify": {
+    "desktop": true,
+    "telegram": { "bot_token": "", "chat_id": "" },
+    "ntfy_topic": ""
+  }
+}
